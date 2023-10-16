@@ -14,7 +14,7 @@ public class ProjectAplikasiCekHargaBarang {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Tes");
+        System.out.println("Cek Harga Barang dengan QR Code");
         // TODO code application logic here
     }
     
